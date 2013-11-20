@@ -1,0 +1,9 @@
+/* 
+  Localizable.String.strings
+  project3.2
+
+  Created by wxl on 13-11-20.
+  Copyright (c) 2013年 wxl. All rights reserved.
+*/
+"PLAY" = "播放!";
+"STOP" = "停止!";
